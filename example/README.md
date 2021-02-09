@@ -16,7 +16,7 @@
 ***
 
 ## Description
-My task for this project was a creation a command-line application that dynamically generated a professional README.md file from a user's input using the inquirer package
+My task for this project was a creation a command-line application that dynamically generated a professional README file from a user's input using the inquirer package
 
 ***
 
@@ -28,7 +28,7 @@ npm i inquirer
 ***
 
 ## Usage
-This project is used for developer who want quickly and easily create a README.md file by using a command-line application to generate one. This will allow the project creator to devote more time to work on the project.
+This project is used for developers who want quickly and easily create a README file by using a command-line application to generate one. This will allow the project creator to devote more time to work on the project.
 
 ***
 
@@ -39,7 +39,7 @@ Elena Magay
 
 ## Test
 ```
-npm test
+npm run test
 ```
 
 ***
